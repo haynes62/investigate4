@@ -1,1 +1,1 @@
-FROM haynes62/containerubu:v1
+FROM haynes62/containerubu:v6
